@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "DoraDe'athsplorer",
+"productName": "DoraDeathsplorer",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
