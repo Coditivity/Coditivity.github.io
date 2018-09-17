@@ -1,5 +1,6 @@
 var config = {
     type:Phaser.AUTO,
+    parent: 'phaserTest',
     width:800,//window.screen.availWidth,
     height:600,//window.screen.availHeight,    
     scene: [example],
