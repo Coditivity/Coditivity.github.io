@@ -7,7 +7,7 @@ class example extends Phaser.Scene{
     }
 
     preload(){
-        this.load.image('ti', 'assets/2.png');
+        this.load.image('ti', 'https://coditivity.github.io/phaserTest/test1/assets/2.png');
         
     }
 
