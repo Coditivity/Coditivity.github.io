@@ -13,7 +13,6 @@ class example extends Phaser.Scene{
 
     
     create() {
-        console.log("ok");
         sprite = this.add.image(window.screen.availWidth/2, window.screen.availHeight/2, 'ti');
         text = this.add.text(10, 10, '', { font: '16px Courier', color: '#00ff00' });
     }
